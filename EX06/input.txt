@@ -1,0 +1,21 @@
+20
+18127042,Le Phuong,Dao,hcm,02/01/2000,8
+18127020,Tran Thi Quynh ,Nhu,hcm,18/06/2000,9
+18127021,Ly Vinh,Sang,hcm,26/01/2000,7
+18127046,Lu Ngoc,Lien,hcm,31/05/2000,8
+18127074,Tran Hai,Dang,hcm,17/03/2000,6
+18127110,Thai Hoang,Huy,hcm,15/03/2000,10
+18127022,Pham Ngoc Thuy Trang,Trang,hcm,20/11/2000,8
+18127040,Le Quang,Anh,hcm,03/09/2000,9
+18127065,Pham Thi Hong ,Anh,hcm,15/02/2000,7
+18127073,Phan Quang,Dai,hcm,22/05/2000,9
+18127078,Phan Tan,Dat,hcm,18/10/2000,7
+18127066,Tran Minh ,Anh,hcm,27/07/2000,8
+18127070,Tran Dai,Chi,hcm,19/10/2000,9
+18127109,Trinh Quang,Ha,hcm,07/03/2000,6
+18127111,Tran Dinh,Huy,hcm,13/09/2000,9
+18127037,Pham Ngoc Thien,An,hcm,21/09/2000,7
+18127039,Lam Ngoc Phuong,Anh,hcm,28/03/2000,8
+18127019,Le Uyen,Nhi,hcm,10/05/2000,9
+18127041,Le Thanh,Binh,hcm,25/06/2000,9
+18127093,Phan Hoang,Duy,hcm,22/05/2000,8
